@@ -1,0 +1,13 @@
+setup.py
+compatilib/BaseClass.py
+compatilib/__init__.py
+compatilib.egg-info/PKG-INFO
+compatilib.egg-info/SOURCES.txt
+compatilib.egg-info/dependency_links.txt
+compatilib.egg-info/top_level.txt
+compatilib/windows/WinPart.py
+compatilib/windows/WinSystem.py
+compatilib/windows/__init__.py
+tests/__init__.py
+tests/unit/__init__.py
+tests/unit/test_01.py
